@@ -11847,7 +11847,20 @@ section#contact form#contactForm :-ms-input-placeholder {
   /* width: 80%; */
   
 }
-
+.pacman{
+  width: 100%;
+  /* height: 100vh; */
+  /* height: auto; */
+  padding-top: 10.5rem;
+  padding-bottom: 6rem;
+  text-align: center;
+  background-image: url("../assets/img/pacman.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+  
+}
 .footer {
   text-align: center;
   font-size: 0.9rem;
